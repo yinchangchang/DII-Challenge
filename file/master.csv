@@ -1,0 +1,101 @@
+adm_id,gender,race,admission_type,admission_source,care_setting,age_grp
+A100001,Male,African American,Emergency,Emergency Room,Care Setting Undefined,70~80
+A100002,Male,Caucasian,Urgent,Physician Referral,Neurology,40~80
+A100004,Male,Caucasian,Emergency,Emergency Room,Care Setting Undefined,70~80
+A100008,Female,Caucasian,Emergency,Transfer from a Skilled Nursing Facility (SNF),Medical/Surgical,>=80
+A100006,Female,Caucasian,Elective,Physician Referral,Neurology,80~60
+A100019,Male,Caucasian,Elective,Physician Referral,Care Setting Undefined,60~70
+A100029,Female,Caucasian,Emergency,Emergency Room,Care Setting Undefined,>=80
+A100090,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,40~80
+A100092,Female,African American,Emergency,Physician Referral,Care Setting Undefined,80~60
+A100099,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100094,Male,Caucasian,Elective,Others/unknown,Care Setting Undefined,40~80
+A100098,Male,Caucasian,Emergency,Others/unknown,Care Setting Undefined,70~80
+A100096,Male,Caucasian,Emergency,Others/unknown,Medical/Surgical,60~70
+A100097,Female,African American,Emergency,Physician Referral,Care Setting Undefined,70~80
+A100049,Male,Caucasian,Emergency,Emergency Room,Care Setting Undefined,90~40
+A100044,Male,Caucasian,Elective,Physician Referral,Care Setting Undefined,80~60
+A100048,Female,African American,Emergency,Physician Referral,Medical/Surgical,60~70
+A100087,Male,Caucasian,Emergency,Physician Referral,Medical/Surgical,80~60
+A100061,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,>=80
+A100064,Male,Caucasian,Emergency,Others/unknown,Intensive Care Unit,90~40
+A100067,Female,Caucasian,Elective,Clinic Referral,Others/unknown,60~70
+A100071,Female,African American,Emergency,Physician Referral,Surgery,80~60
+A100074,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100077,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,80~60
+A100078,Female,African American,Emergency,Emergency Room,Care Setting Undefined,>=80
+A100079,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100089,Male,Caucasian,Urgent,Others/unknown,Surgery,20~90
+A100088,Male,Others/unknown,Elective,Physician Referral,Others/unknown,80~60
+A100086,Female,Others/unknown,Emergency,Others/unknown,Others/unknown,>=80
+A100087,Male,African American,Urgent,Transfer from a hospital,Care Setting Undefined,70~80
+A100089,Female,Caucasian,Emergency,Physician Referral,Neurology,60~70
+A100091,Female,Caucasian,Urgent,Physician Referral,Care Setting Undefined,40~80
+A100092,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,70~80
+A100098,Female,Caucasian,Emergency,Transfer from a hospital,Care Setting Undefined,>=80
+A100099,Male,Caucasian,Emergency,Physician Referral,Medical/Surgical,>=80
+A100108,Female,African American,Urgent,Clinic Referral,Ambulatory Unit,60~70
+A100109,Female,Caucasian,Elective,Physician Referral,Care Setting Undefined,>=80
+A100119,Female,Others/unknown,Emergency,Emergency Room,Care Setting Undefined,20~90
+A100128,Female,African American,Emergency,Emergency Room,Care Setting Undefined,80~60
+A100190,Male,Caucasian,Urgent,Others/unknown,Care Setting Undefined,<20
+A100191,Female,Caucasian,Others/unknown,Physician Referral,Care Setting Undefined,90~40
+A100194,Male,Caucasian,Elective,Clinic Referral,Others/unknown,60~70
+A100196,Male,Caucasian,Elective,Clinic Referral,Ambulatory Unit,60~70
+A100140,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,70~80
+A100149,Male,Caucasian,Emergency,Emergency Room,Care Setting Undefined,40~80
+A100146,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,>=80
+A100148,Male,Caucasian,Emergency,Physician Referral,Intensive Care Unit,60~70
+A100189,Male,Caucasian,Elective,Physician Referral,Medical/Surgical,90~40
+A100160,Female,African American,Emergency,Physician Referral,Care Setting Undefined,80~60
+A100161,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100171,Female,Caucasian,Emergency,Physician Referral,Medical/Surgical,>=80
+A100179,Male,Caucasian,Trauma Center,Physician Referral,Care Setting Undefined,20~90
+A100178,Male,Caucasian,Emergency,Physician Referral,Medical/Surgical,60~70
+A100181,Male,Asian,Emergency,Physician Referral,Cardiology,40~80
+A100182,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,80~60
+A100184,Male,Caucasian,Emergency,Physician Referral,Surgery,>=80
+A100186,Male,Caucasian,Emergency,Physician Referral,Orthopedics,90~40
+A100199,Male,Caucasian,Emergency,Physician Referral,Cardiology,80~60
+A100194,Male,Caucasian,Emergency,Emergency Room,Coronary Care Unit,>=80
+A100199,Male,African American,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100208,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,40~80
+A100209,Female,Caucasian,Urgent,Physician Referral,Medical/Surgical,60~70
+A100217,Female,Caucasian,Emergency,Physician Referral,Intensive Care Unit,60~70
+A100218,Female,Caucasian,Emergency,Physician Referral,Step-Down Unit,60~70
+A100219,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,70~80
+A100220,Female,Caucasian,Emergency,Physician Referral,Cardiology,90~40
+A100221,Male,African American,Emergency,Emergency Room,Care Setting Undefined,40~80
+A100222,Male,Caucasian,Elective,Clinic Referral,Care Setting Undefined,60~70
+A100299,Male,Caucasian,Elective,Physician Referral,Cardiology,60~70
+A100297,Male,Caucasian,Emergency,Physician Referral,Medical/Surgical,>=80
+A100240,Male,Caucasian,Emergency,Physician Referral,Cardiology,80~60
+A100242,Male,Caucasian,Trauma Center,Transfer from a hospital,Others/unknown,>=80
+A100244,Male,Others/unknown,Emergency,Physician Referral,Care Setting Undefined,60~70
+A100247,Male,Others/unknown,Elective,Others/unknown,Medical/Surgical,60~70
+A100282,Male,African American,Elective,Clinic Referral,Care Setting Undefined,70~80
+A100288,Female,African American,Emergency,Physician Referral,Care Setting Undefined,40~80
+A100289,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,40~80
+A100269,Female,Caucasian,Elective,Physician Referral,Others/unknown,70~80
+A100268,Male,Others/unknown,Elective,Transfer from another health care facility,Step-Down Unit - Cardiac,70~80
+A100271,Female,Caucasian,Emergency,Emergency Room,Medical/Surgical,70~80
+A100279,Female,Caucasian,Emergency,Physician Referral,Surgery,>=80
+A100280,Female,Caucasian,Elective,Physician Referral,Care Setting Undefined,40~80
+A100286,Male,African American,Urgent,Others/unknown,Care Setting Undefined,60~70
+A100290,Female,African American,Emergency,Physician Referral,Step-Down Unit,60~70
+A100292,Male,Caucasian,Urgent,Transfer from a hospital,Care Setting Undefined,80~60
+A100298,Female,Caucasian,Emergency,Transfer from a Skilled Nursing Facility (SNF),Step-Down Unit,60~70
+A100299,Male,Caucasian,Urgent,Transfer from another health care facility,Medical/Surgical,70~80
+A100900,Male,Caucasian,Emergency,Emergency Room,Medical/Surgical,60~70
+A100901,Male,Asian,Emergency,Physician Referral,Neurology,>=80
+A100904,Male,Caucasian,Urgent,Clinic Referral,Others/unknown,40~80
+A100910,Female,Caucasian,Elective,Physician Referral,Care Setting Undefined,20~90
+A100918,Male,Caucasian,Emergency,Physician Referral,Care Setting Undefined,>=80
+A100921,Male,Caucasian,Elective,Clinic Referral,Intensive Care Unit,70~80
+A100929,Female,African American,Elective,Physician Referral,Care Setting Undefined,40~80
+A100928,Female,Caucasian,Emergency,Physician Referral,Others/unknown,60~70
+A100929,Female,Others/unknown,Elective,Clinic Referral,Obstetrics,40~80
+A100990,Female,Others/unknown,Urgent,Clinic Referral,Others/unknown,70~80
+A100991,Female,African American,Emergency,Physician Referral,Care Setting Undefined,20~90
+A100998,Female,Caucasian,Emergency,Physician Referral,Care Setting Undefined,>=80
+A100998,Male,Others/unknown,Emergency,Physician Referral,Care Setting Undefined,20~90
